@@ -1,4 +1,4 @@
 ---
-title: Welcome my Project: Learning Github
+title: Welcome my Project, Learning Github
 ---
 
