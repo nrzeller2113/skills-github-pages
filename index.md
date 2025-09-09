@@ -1,4 +1,4 @@
 ---
-title: Welcome my Project, Learning Github
+FOUNDATIONS OF GENERATIVE AI: Welcome my Project, Learning Github
 ---
 
